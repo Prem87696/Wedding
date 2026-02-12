@@ -113,7 +113,7 @@ export default function ContactForm() {
               value={formData.serviceType}
               onChange={handleChange}
               required
-              className="w-full px-4 py-3 bg-primary/10 border border-primary-foreground/20 rounded-lg text-primary-foreground placeholder-primary-foreground/60 focus:outline-none focus:border-accent"
+              className="w-full px-4 py-3 bg-primary/10 border border-primary-foreground/20 rounded-lg text-muted-foreground placeholder-primary-foreground/60 focus:outline-none focus:border-accent"
             >
               <option value="">Select Service Type</option>
               <option value="wedding">Wedding Photography</option>
