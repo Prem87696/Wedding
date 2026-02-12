@@ -19,7 +19,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
             <div className="w-10 h-10 bg-accent rounded-full flex items-center justify-center">
-              <span className="text-accent-foreground font-bold text-lg">SK</span>
+              <span className="text-accent-foreground font-bold text-lg"><img src="/icon.svg" className="w-6 h-6" /></span>
             </div>
             <span className="hidden sm:block font-bold text-foreground">SK Photography</span>
           </div>
