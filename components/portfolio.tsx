@@ -12,7 +12,7 @@ export default function Portfolio() {
     { id: 4, category: 'candid', title: 'Candid Moments', image: '/candid-family-laughing.jpg' },
     { id: 5, category: 'wedding', title: 'Wedding Reception', image: '/wedding-reception-dance.jpg' },
     { id: 6, category: 'prewedding', title: 'Couple Photoshoot', image: '/couple-photoshoot-romantic.jpg' },
-    { id: 6, category: 'Video', title: 'Couple Photoshoot', image: '/candid-family-laughing.jpg' },
+    { id: 7, category: 'Video', title: 'Couple Photoshoot', image: '/candid-family-laughing.jpg' },
   ]
 
   const filters = ['all', 'wedding', 'prewedding', 'portrait', 'candid']
@@ -26,7 +26,7 @@ export default function Portfolio() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4 text-center">Our Portfolio</h2>
         <p className="text-lg text-muted-foreground text-center mb-12 max-w-2xl mx-auto">
-          Explore our collection of stunning wedding, pre-wedding, portrait, and candid photography
+          Explore our collection of stunning wedding, pre-wedding, portrait,Video, and candid photography
         </p>
 
         <div className="flex flex-wrap justify-center gap-3 mb-12">
