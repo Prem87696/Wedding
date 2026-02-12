@@ -50,7 +50,7 @@ export default function ContactForm() {
             </div>
             <div>
               <p className="text-sm font-medium text-primary-foreground/80">Email</p>
-              <p className="text-lg font-bold">sunil@skphotography.com</p>
+              <p className="text-lg font-bold">Prem92006@gmail.com</p>
             </div>
           </div>
 
@@ -60,7 +60,7 @@ export default function ContactForm() {
             </div>
             <div>
               <p className="text-sm font-medium text-primary-foreground/80">Location</p>
-              <p className="text-lg font-bold">India</p>
+              <p className="text-lg font-bold">Sgnr India</p>
             </div>
           </div>
         </div>
