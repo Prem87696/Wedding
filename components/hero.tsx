@@ -4,7 +4,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: 'url(/placeholder.svg?height=1080&width=1920&query=wedding%20photography%20couple%20romance)',
+          backgroundImage: 'url(/Untitled (1).png?height=1080&width=1920&query=wedding%20photography%20couple%20romance)',
           backgroundPosition: 'center',
         }}
       >
