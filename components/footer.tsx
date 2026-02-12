@@ -45,7 +45,7 @@ export default function Footer() {
               <a href="mailto:sunil@skphotography.com" className="w-10 h-10 bg-accent/20 rounded-lg flex items-center justify-center hover:bg-accent hover:text-accent-foreground transition-colors">
                 <Mail size={20} />
               </a>
-              <a href="tel:+919800000006" className="w-10 h-10 bg-accent/20 rounded-lg flex items-center justify-center hover:bg-accent hover:text-accent-foreground transition-colors">
+              <a href="tel:+918949800427" className="w-10 h-10 bg-accent/20 rounded-lg flex items-center justify-center hover:bg-accent hover:text-accent-foreground transition-colors">
                 <Phone size={20} />
               </a>
             </div>
