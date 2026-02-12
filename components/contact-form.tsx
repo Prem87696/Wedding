@@ -130,7 +130,7 @@ export default function ContactForm() {
               value={formData.message}
               onChange={handleChange}
               rows={4}
-              className="w-full px-4 py-3 bg-primary-foreground/10 border border-primary-foreground/20 rounded-lg text-primary-foreground placeholder-primary-foreground/60 focus:outline-none focus:border-accent"
+              className="w-full px-4 py-3 bg-primary-foreground/10 border border-primary-foreground/20 rounded-lg text-muted-foreground placeholder-primary-foreground/60 focus:outline-none focus:border-accent"
             />
 
             <button
