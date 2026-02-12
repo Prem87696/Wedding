@@ -21,7 +21,7 @@ export default function ContactForm() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     console.log('Form submitted:', formData)
-    alert('Thank you for your inquiry! We will contact you soon.')
+    alert('Thank you for your inquiry! Call Now 8949800427')
     setFormData({ name: '', email: '', phone: '', eventDate: '', serviceType: '', message: '' })
   }
 
