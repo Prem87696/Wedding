@@ -104,7 +104,7 @@ export default function ContactForm() {
                 value={formData.eventDate}
                 onChange={handleChange}
                 required
-                className="px-4 py-3 bg-primary-foreground/10 border border-primary-foreground/20 rounded-lg textvar--muted-foreground placeholder-primary-foreground/60 focus:outline-none focus:border-accent"
+                className="px-4 py-3 bg-primary-foreground/10 border border-primary-foreground/20 rounded-lg textvar-smuted-foreground placeholder-primary-foreground/60 focus:outline-none focus:border-accent"
               />
             </div>
 
