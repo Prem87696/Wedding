@@ -40,7 +40,7 @@ export default function ContactForm() {
             </div>
             <div>
               <p className="text-sm font-medium text-primary-foreground/80">Phone</p>
-              <p className="text-lg font-bold">+91 98XXXXXX06</p>
+              <p className="text-lg font-bold">+918949800427</p>
             </div>
           </div>
 
