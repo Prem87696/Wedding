@@ -12,6 +12,9 @@ export default function Portfolio() {
     { id: 4, category: 'candid', title: 'Candid Moments', image: '/candid-family-laughing.jpg' },
     { id: 5, category: 'wedding', title: 'Wedding Reception', image: '/wedding-reception-dance.jpg' },
     { id: 6, category: 'prewedding', title: 'Couple Photoshoot', image: '/couple-photoshoot-romantic.jpg' },
+    { id: 7, category: 'wedding', title: 'Wedding Reception', image: '/wedding-reception-dance.jpg' },
+    { id: 8, category: 'wedding', title: 'Wedding Reception', image: '/wedding-reception-dance.jpg' },
+    { id: 9, category: 'wedding', title: 'Wedding Reception', image: '/wedding-reception-dance.jpg' },
     
   ]
 
