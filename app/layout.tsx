@@ -6,7 +6,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'SK Photography | Wedding & Portrait Photography',
+  title: 'SK Photography',
   description:
     'Professional wedding photography, pre-wedding shoots, candid photography, and video editing services by Sunil',
   generator: 'v0.app',
